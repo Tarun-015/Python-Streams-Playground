@@ -1,0 +1,17 @@
+requirements required ::
+
+    streamlit==1.37.0
+    pandas==2.2.2
+    Pillow==10.4.0
+
+
+
+Usage ::
+
+Install dependencies:
+
+    pip install -r requirements.txt
+
+Run app:
+
+    streamlit run app.py
