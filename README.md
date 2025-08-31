@@ -3,7 +3,7 @@ Python Streams Playground
 An interactive Streamlit app to explore Python Streams — from basics (text, images) to advanced (compressed files, large CSV datasets).
 This app demonstrates how to process data efficiently using streams instead of loading everything at once.
 
-🚀 Features
+Features
 
     📄 Text Streams → Read .txt / .csv files line by line
     
@@ -15,7 +15,7 @@ This app demonstrates how to process data efficiently using streams instead of l
     
     🎨 Modern UI → Clean sidebar, emojis, and Streamlit styling
 
-🛠️ Tech Stack
+Tech Stack
 
         Python 3
         
@@ -44,4 +44,5 @@ Project Structure
     │── README.md        # Documentatio
 
 <img width="1903" height="903" alt="image" src="https://github.com/user-attachments/assets/70a8b9fd-44f1-47ad-b508-7e982a3055e7" />
+
 
